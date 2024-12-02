@@ -1,18 +1,8 @@
-# Eric's Advent of Code 2024 Solutions
+# Advent of Code 2024 Solutions
 
-## The Blog
-
-For the last four years, I've blogged my approaches to the Advent of Code puzzles on my
-[personal site](https://www.ericburden.work/blog/). Assuming I hold true to form, each 
-blog post will include code and commentary on my thinking behind the approach, my thoughts
-about the puzzles, and vain attempts at wit.
-
+## Template
+Thanks to Eric Burden for providing [his gleam solutions](https://github.com/ericwburden/advent_of_code_2024) that I used as a template.
 ## Project Structure
-
-This year, I'm using Gleam! Much like Rust, Julia, and Kotlin in prior years, Gleam is a
-new language for me. Given the popularity of the language and the fact that it might
-mean I don't ever have to write JavaScript again (yeah, I know, not likely), I'm 
-excited to learn my first language on the BEAM.
 
 ```
 <project root>
